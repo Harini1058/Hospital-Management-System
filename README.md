@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230091
+# Name: Harini G 
+# Date: 24-11-2026
 
 
 # AIM:
@@ -41,7 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+<img width="1917" height="1020" alt="Screenshot 2026-10-20 211805" src="https://github.com/user-attachments/assets/2efcbb6e-c6c5-4781-9a77-5c60ee57eabd" />
 
 
 
@@ -60,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1917" height="1010" alt="Screenshot 2026-11-19 214934" src="https://github.com/user-attachments/assets/cdcdfd5f-d1e9-424a-b5a3-f629355be81c" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -81,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1917" height="1002" alt="Screenshot 2026-11-04 134922" src="https://github.com/user-attachments/assets/5c348d36-bca6-4400-b455-0e558934f55c" />
 
 
 
@@ -98,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1917" height="1008" alt="Screenshot 2026-10-23 142931" src="https://github.com/user-attachments/assets/0b7f47f3-ea39-46b4-8262-f42294506927" />
 
 
 
@@ -121,6 +124,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/4474d5e7-825f-4398-8658-9bf7e465ed9a" />
 
 
 
